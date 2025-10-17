@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+.venv/
+venv/
+.env
+.coverage
+htmlcov/
+coverage.xml
+junit.xml
+backend/data.db
+backend/.pytest_cache/
+backend/.mypy_cache/
+
+# Node.js
+frontend/node_modules/
+frontend/dist/
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Misc
+*.log
+*.bak
+*.swp
+*.tmp
+
+# System
+Thumbs.db
+
+# Others (add as needed)
+# .idea/
+# .history/
