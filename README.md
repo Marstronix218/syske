@@ -72,5 +72,3 @@ frontend/
   vite.config.ts
 ```
 
-## License
-MIT
